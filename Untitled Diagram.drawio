@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T12:20:19.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.48" version="15.5.2" etag="kaOfLfRQ6yHbr2roFl6X" type="github"><diagram id="0p4j22EU66z_C2OszO_i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T12:38:49.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.48" etag="e7S5AiMRDp5WD5n5qxQv" version="15.5.2" type="github">
+  <diagram id="0p4j22EU66z_C2OszO_i" name="Page-1">
+    <mxGraphModel dx="741" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-1" value="import dependencies" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-3" value="initialize screen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-4" value="initialize roboter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-6" value="for-schleife range(8)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-7" value="forward 200 px" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-8" value="45° left" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="255" y="680" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-10" value="penup" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-11" value="goto (-100, -100)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSR5ixhzjYbgWN-eUiTA-12" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
